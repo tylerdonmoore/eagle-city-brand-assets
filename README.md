@@ -9,7 +9,8 @@ Files here are deliberately committed to a public repo so they can be referenced
 | File | Use |
 |---|---|
 | `tyler-headshot.png` | Tyler's headshot, 240px square. Used in the email signature. |
-| `eagle-city-logo.png` | Cactus logo, transparent background, 240px. Used in the email signature and other branded surfaces. |
+| `eagle-city-mark-terracotta.png` | Eagle mark, terracotta on transparent, 240px square. Used inline in the email signature next to "Eagle City". |
+| `eagle-city-logo.png` | Retired cactus logo. Kept only so signatures pasted before 2026-10-28 keep rendering; delete once every signature points at the eagle mark. |
 
 ## Don't commit secrets here.
 
